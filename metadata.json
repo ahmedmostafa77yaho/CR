@@ -1,0 +1,6 @@
+{
+  "name": "مدون الكورسات",
+  "description": "Automated data-entry system parsing unstructured WhatsApp messages into Google Sheets via Google Drive",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
